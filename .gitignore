@@ -1,5 +1,6 @@
 #忽略settings文件夹
-/.settings/*
+.settings*
 #忽略.classpath和.project文件
-*.classpath
-*.project
+.classpath
+.project
+.gitignore
